@@ -1,0 +1,16 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "init",
+  "main": "nro_1_model_users.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
